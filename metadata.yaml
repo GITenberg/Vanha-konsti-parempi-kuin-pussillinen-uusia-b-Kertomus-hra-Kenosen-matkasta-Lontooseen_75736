@@ -1,5 +1,8 @@
 _repo: Vanha-konsti-parempi-kuin-pussillinen-uusia-b-Kertomus-hra-Kenosen-matkasta-Lontooseen_75736
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tiitus
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49690
     wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kivinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75736#Vanha-konsti-parempi-kuin-pussillinen-uusia-b-Kertomus-hra-Kenosen-matkasta-Lontooseen
 gutenberg_issued: '2025-03-28'
 gutenberg_type: Text
 identifiers:
